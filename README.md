@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkatiyar9777" alt="prashantkatiyar9777" /> </p>
 
-<h1 align="center">Hi 🖐️, I'm Prashant</h1>
+<h1 align="center">Hi 🖐️, I'm SHYAM MARJIT</h1>
 <h3 align="center">I'm an Entreprenure, Full Stack MERN Developer and researching in Robotics Process Automation.</h3>
 
 - 🤝 I'm the Founder and Chief Executive of LAB (learn and Become).(https://learnandbecome.com)
