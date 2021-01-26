@@ -107,7 +107,9 @@ Neural Networks, Robotics and Control Systems. </h3>
 <p align="center">
 
 <a href="https://www.facebook.com/shyam.marjit.37/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a  href="https://www.youtube.com/channel/UC37Z88Ku2u7ssqGPmOUqAVw/videos" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> 
 <a href="https://www.instagram.com/marjitshyam/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/shyam-marjit/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
+
 
