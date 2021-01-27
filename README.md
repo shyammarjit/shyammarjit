@@ -10,7 +10,6 @@ Neural Networks, Robotics and Control Systems. </h3>
 
 </h3>
 - 🤝 I'm the Founder and Chief Executive of LAB (learn and Become).(https://learnandbecome.com)
-
 - 🔭 **I’m currently working on Robotics, Machine learning, Artificial Intelligence and Control Systems.**
 - 👯 I’m looking to collaborate on any open reseach projects in Robotics, Machine learning, Artificial Intelligence and Control Systems those fiels.
 - 👀 I'm looking of for an open reaserch possition in my research areas.
