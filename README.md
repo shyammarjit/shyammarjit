@@ -1,43 +1,7 @@
 ### Hare Krishna! Hare Krishna! 👋
 
 <h1 align="center">Hi 👋, I'm SHYAM MARJIT</h1>
-<!--
-**shyammarjit/shyammarjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkatiyar9777" alt="prashantkatiyar9777" /> </p>
-<h1 align="center">Hi 🖐️, I'm SHYAM MARJIT</h1>
-<h3 align="center" > To pursue graduate studies in computer science and engineering, leading to a career in research. I am
-interested in Machine Learning, Artificial Intelligence, Image-processing, Medical imaging, Deep Learning,
-Neural Networks, Robotics and Control Systems. </h3>
-
-- 🤝 I'm the Founder and Chief Executive of LAB (learn and Become).(https://learnandbecome.com)
-
-- 🔭 **I’m currently working on Robotics, Machine learning, Artificial Intelligence and Control Systems.**
-- 👯 I’m looking to collaborate on any open reseach projects in Robotics, Machine learning, Artificial Intelligence and Control Systems those fiels.
-- 👀 I'm looking of for an open reaserch possition in my research areas.
-
-- 💬 Ask me about **Robotics, Machine learning, Artificial Intelligence and Control Systems.**
-
-- 📫 Contact me at **sujaykumarmarjit@gmail.com** or **shyam.marjit@iiitg.ac.in** or any of the social media links below.
-
-- 🧘 I believe  **I am still a student and would remain that for the rest of my life..**
-- 👨‍💻 All of my projects are available at **https://github.com/shyammarjit?tab=projects**
-
-
-<br />
-<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyammarjit&label=Profile%20views&color=0e75b6&style=flat" alt="shyammarjit" /> </p>
 
