@@ -31,10 +31,6 @@ Neural Networks, Robotics and Control Systems. </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyammarjit&" alt="shyammarjit" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyammarjit" alt="shyammarjit" /></a> </p>
-<br/>
-<br/>
-
-<hr/>
 
 <h3 align="left">Coding Profile</h3>
 <p align="left">
@@ -46,8 +42,8 @@ Neural Networks, Robotics and Control Systems. </h3>
 
 <br/>
 <br/>
-
 <hr/>
+
 ## My Social Handles
 
 <p align="center">
