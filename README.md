@@ -6,7 +6,9 @@
 interested in Machine Learning, Artificial Intelligence, Image-processing, Medical imaging, Deep Learning,
 Neural Networks, Robotics and Control Systems. </h3>
 
-<h3 align="center">                                              </h3>
+<h3 align="center">                                              
+
+</h3>
 - 🤝 I'm the Founder and Chief Executive of LAB (learn and Become).(https://learnandbecome.com)
 
 - 🔭 **I’m currently working on Robotics, Machine learning, Artificial Intelligence and Control Systems.**
