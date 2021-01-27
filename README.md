@@ -31,10 +31,6 @@ Neural Networks, Robotics and Control Systems. </h3>
 <a href="https://www.instagram.com/marjitshyam/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/shyam-marjit/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
-
-<br/>
-<br/>
-<hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyammarjit&show_icons=true&locale=en&layout=compact" alt="shyammarjit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyammarjit&show_icons=true&locale=en" alt="shyammarjit" /></p>
