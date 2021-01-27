@@ -1,8 +1,6 @@
 ### Hare Krishna! Hare Krishna! 👋
 
 <h1 align="center">Hi 👋, I'm SHYAM MARJIT</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkatiyar9777" alt="prashantkatiyar9777" /> </p>
-<h1 align="center">Hi 🖐️, I'm SHYAM MARJIT</h1>
 <h3 align="center" > To pursue graduate studies in computer science and engineering, leading to a career in research. I am
 interested in Machine Learning, Artificial Intelligence, Image-processing, Medical imaging, Deep Learning,
 Neural Networks, Robotics and Control Systems. </h3>
