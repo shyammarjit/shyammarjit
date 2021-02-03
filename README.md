@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm SHYAM MARJIT</h1>
 <h3 align="center" > To pursue graduate studies in computer science and engineering, leading to a career in research. I am
-interested in Machine Learning, Artificial Intelligence, Image-processing, Medical imaging, Deep Learning,
+interested in Machine Learning, Artificial Intelligence, Image-Processing, Medical imaging, Deep Learning,
 Neural Networks, Robotics and Control Systems. </h3>
 
 - 🤝 I'm the Founder and Chief Executive of **LAB (learn and Become)**.(https://learnandbecome.com)
