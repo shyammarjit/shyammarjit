@@ -18,7 +18,7 @@ Neural Networks, Robotics and Control Systems. </h3>
 
 - 🧘 I believe  **I am still a student and would remain that for the rest of my life..**
 - 👨‍💻 All of my projects are available at [here](https://github.com/shyammarjit?tab=projects)
-- 🤝 🤝 🔭  For CV - [here](https://drive.google.com/file/d/1bGi-nM5f7QqB59RyDHTcqQOy6jwlNkBu/view?usp=sharing) 🔭 🤝 🤝 
+- 🤝 🤝 🔭  For CV - [here](https://drive.google.com/file/d/1y6T6iQq6LrY1jg03ONaCKk1RoWSAgsh3/view?usp=sharing) 🔭 🤝 🤝 
 <hr/>
 
 ## My Social Handles
