@@ -6,19 +6,19 @@
 interested in Machine Learning, Artificial Intelligence, Image-Processing, Medical Imaging, Deep Learning,
 Neural Networks, Robotics and Control Systems. </h3>
 
-- 🤝 I'm the Founder and Chief Executive of **LAB (learn and Become)**.(https://learnandbecome.com)
+- 🤝 I'm the Founder and Chief Executive of **LAB (Learn and Become)**.(https://learnandbecome.com)
 
-- 🔭 **I’m currently working on Robotics, Machine learning, Artificial Intelligence and Control Systems.**
-- 👯 I’m looking to collaborate on any open reseach projects in Robotics, Machine learning, Artificial Intelligence and Control Systems those fiels.
+- 🔭 **I’m currently working on Robotics, Machine Learning, Artificial Intelligence and Control Systems.**
+- 👯 I’m looking to collaborate on any open reseach projects in Robotics, Machine Learning, Artificial Intelligence and Control Systems those fiels.
 - 👀 I'm looking of for an open reaserch possition in my research areas.
 
-- 💬 Ask me about **Robotics, Machine learning, Artificial Intelligence and Control Systems.**
+- 💬 Ask me about **Robotics, Machine Learning, Artificial Intelligence and Control Systems.**
 
 - 📫 Contact me at **sujaykumarmarjit@gmail.com** or **shyam.marjit@iiitg.ac.in** or any of the social media links below.
 
 - 🧘 I believe  **I am still a student and would remain that for the rest of my life..**
 - 👨‍💻 All of my projects are available at [here](https://github.com/shyammarjit?tab=projects)
-- 🤝 🤝 🔭  For CV - [here](https://drive.google.com/file/d/1y6T6iQq6LrY1jg03ONaCKk1RoWSAgsh3/view?usp=sharing) 🔭 🤝 🤝 
+- 🤝 🤝 🔭  Download CV - [here](https://drive.google.com/file/d/1y6T6iQq6LrY1jg03ONaCKk1RoWSAgsh3/view?usp=sharing) 🔭 🤝 🤝 
 <hr/>
 
 ## My Social Handles
