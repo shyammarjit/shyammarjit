@@ -33,7 +33,7 @@ Neural Networks, Robotics and Control Systems. </h3>
 <hr/>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyammarjit&show_icons=true&locale=en&layout=compact" alt="shyammarjit" /></p>
+<p><img align="left" src="https://camo.githubusercontent.com/8446d9216eac2d18dd29791621bb2bc8db6db1ad42f2b1ee657d56ac6cb08b24/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d736879616d6d61726a69742673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="shyammarjit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyammarjit&show_icons=true&locale=en" alt="shyammarjit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyammarjit&" alt="shyammarjit" /></p>
