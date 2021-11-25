@@ -35,7 +35,7 @@ Neural Networks, Robotics and Control Systems. </h3>
 </p>
 <p><img align="left" src="https://camo.githubusercontent.com/8446d9216eac2d18dd29791621bb2bc8db6db1ad42f2b1ee657d56ac6cb08b24/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d736879616d6d61726a69742673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="shyammarjit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyammarjit&show_icons=true&locale=en" alt="shyammarjit" /></p>
+<p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/f6f3ec26dbc5b2cde1fa4a9c9a5f6803b9d7624a97c271fae61666ffb32aea2e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d736879616d6d61726a69742673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyammarjit&" alt="shyammarjit" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyammarjit" alt="shyammarjit" /></a> </p>
