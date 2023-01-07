@@ -1,10 +1,9 @@
-### Hare Krishna! Hare Krishna! 👋
+<h100 align="center"> ### Hare Krishna! Hare Krishna! 👋</h100>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyammarjit&label=Profile%20views&color=0e75b6&style=flat" alt="shyammarjit" /> </p>
 
 <h1 align="center">Hi 👋, I'm Shyam Marjit</h1>
 <h3 align="center" > To pursue graduate studies in Computer Science and Engineering (CSE), leading to a career in research. I am
-interested in Machine Learning, Artificial Intelligence, Brain Computer Interface (BCI), Image-Processing, Medical Imaging, Deep Learning,
-Neural Networks, Robotics and Control Systems. </h3>
+interested in Computer Vision, Deep Learning, Robotics, and Brain Computer Interface (BCI). </h3>
 
 - 🤝 I'm the Founder and Chief Executive of **LAB (Learn and Become)**.(https://learnandbecome.com)
 
