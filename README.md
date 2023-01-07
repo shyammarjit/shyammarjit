@@ -1,4 +1,4 @@
-<h100 align="center"> ### Hare Krishna! Hare Krishna! 👋</h100>
+<h2 align="center"> Hare Krishna! Hare Krishna!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyammarjit&label=Profile%20views&color=0e75b6&style=flat" alt="shyammarjit" /> </p>
 
 <h1 align="center">Hi 👋, I'm Shyam Marjit</h1>
@@ -7,13 +7,10 @@ interested in Computer Vision, Deep Learning, Robotics, and Brain Computer Inter
 
 - 🤝 I'm the Founder and Chief Executive of **LAB (Learn and Become)**.(https://learnandbecome.com)
 
-- 🔭 **I’m currently working on Robotics, Machine Learning, Artificial Intelligence and Control Systems.**
-- 👯 I’m looking to collaborate on any open reseach projects in Robotics, Brain Computer Interface (BCI), Machine Learning, Artificial Intelligence and Control Systems those fiels.
-- 👀 I'm looking of for an open reaserch possition in my research areas.
+- 🔭 **I’m currently working on Computer Vision, Deep Learning, and Robotics.**
+- 👯 I’m looking to collaborate on any open reseach projects in my area of interests.
 
-- 💬 Ask me about **Robotics, Machine Learning, Artificial Intelligence and Control Systems.**
-
-- 📫 Contact me at **sujaykumarmarjit@gmail.com** or **shyam.marjit@iiitg.ac.in** or any of the social media links below.
+- 📫 Contact me at **marjitshyam@gmail.com** or **shyam.marjit@iiitg.ac.in** or any of the social media links below.
 
 - 🧘 I believe  **I am still a student and would remain that for the rest of my life..**
 - 👨‍💻 All of my projects are available at [here](https://github.com/shyammarjit?tab=projects)
