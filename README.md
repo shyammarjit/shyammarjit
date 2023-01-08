@@ -1,6 +1,4 @@
 <h2 align="center"> Hare Krishna! Hare Krishna!</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyammarjit&label=Profile%20views&color=0e75b6&style=flat" alt="shyammarjit" /> </p>
-
 <h1 align="center">Hi 👋, I'm Shyam Marjit</h1>
 <h3 align="center" > To pursue graduate studies in Computer Science and Engineering (CSE), leading to a career in research. I am
 interested in Computer Vision, Deep Learning, Robotics, and Brain Computer Interface (BCI). </h3>
