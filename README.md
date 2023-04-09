@@ -10,7 +10,7 @@ interested in Computer Vision, Deep Learning, Robotics, and Brain Computer Inter
 
 - 📫 Contact me at **marjitshyam@gmail.com** or **shyam.marjit@iiitg.ac.in** or any of the social media links below.
 
-- 🧘 I believe  **I am still a student and would remain that for the rest of my life..**
+- 🧘 I believe  **I am still a student and would remain that for the rest of my life.**
 - 👨‍💻 All of my projects are available at [here](https://github.com/shyammarjit?tab=projects)
 - 🤝 🤝 🔭  Download CV - [here](https://drive.google.com/file/d/1y6T6iQq6LrY1jg03ONaCKk1RoWSAgsh3/view?usp=sharing) 🔭 🤝 🤝 
 <hr/>
