@@ -3,7 +3,7 @@
 <h3 align="center" > To pursue graduate studies in Computer Science and Engineering (CSE), leading to a career in research. I am
 interested in Computer Vision, Deep Learning, Robotics, and Brain Computer Interface (BCI). </h3>
 
-- 🤝 I'm the Founder and Chief Executive of **LAB (Learn and Become)**.(https://learnandbecome.com)
+- 🤝 I'm the Founder and Chief Executive of **[LAB (Learn and Become)](https://learnandbecome.com)**.
 
 - 🔭 **I’m currently working on Computer Vision, Deep Learning, and Robotics.**
 - 👯 I’m looking to collaborate on any open reseach projects in my area of interests.
