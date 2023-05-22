@@ -1,7 +1,7 @@
 <h1 align="center"> Hare Krishna! Hare Krishna!<h1>
 <h2 align="center">Hi 👋, I'm Shyam Marjit</h2>
 <h3 align="center" > To pursue graduate studies in Computer Science and Engineering (CSE), leading to a career in research. I am
-interested in Computer Vision, Deep Learning, Robotics, and Brain Computer Interface (BCI). </h3>
+interested in Computer Vision & Robotics. </h3>
 
 - 🤝 I'm the Founder and Chief Executive of **[LAB (Learn and Become)](https://learnandbecome.com)**.
 
