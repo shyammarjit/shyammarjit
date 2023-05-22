@@ -12,7 +12,7 @@ interested in Computer Vision & Robotics. </h3>
 
 - 🧘 I believe  **I am still a student and would remain that for the rest of my life.**
 - 👨‍💻 All of my projects are available at [here](https://github.com/shyammarjit?tab=projects).
-- 🤝 🤝 🔭  Download CV - [here](https://drive.google.com/file/d/1y6T6iQq6LrY1jg03ONaCKk1RoWSAgsh3/view?usp=sharing).🔭 🤝 🤝 
+- 🤝 🤝 🔭  Download CV - [here]().🔭 🤝 🤝 
 <hr/>
 
 ## My Social Handles
