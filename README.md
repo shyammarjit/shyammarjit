@@ -6,11 +6,11 @@ interested in Computer Vision & Robotics. </h3>
 - 🤝 I'm the Founder and Chief Executive of **[LAB (Learn and Become)](https://learnandbecome.com)**.
 
 - 🔭 **I’m currently working on Computer Vision, Deep Learning, and Robotics.**
-- 👯 I’m looking to collaborate on any open reseach projects in my area of interests.
+- 👯 I’m looking to collaborate on any open research projects in my area of interest.
 
 - 📫 Contact me at **marjitshyam@gmail.com** or **shyam.marjit@iiitg.ac.in** or any of the social media links below.
 
-- 🧘 I believe  **I am still a student and would remain that for the rest of my life.**
+- 🧘 I believe  **I am still a student and will remain that for the rest of my life.**
 - 👨‍💻 All of my projects are available at [here](https://github.com/shyammarjit?tab=projects).
 - 🤝 🤝 🔭  Download CV - [here]().🔭 🤝 🤝 
 <hr/>
