@@ -1,15 +1,11 @@
 <h2 align="center">Hare Krishna! 🙏 I'm Shyam Marjit</h2>
 
-- 👨‍💻 To pursue graduate studies in Computer Science and Engineering (CSE), leading to a career in research. I am interested in Computer Vision & Robotics.
-- 🤝 I'm the Founder and Chief Executive of **[LAB (Learn and Become)](https://learnandbecome.com)**.
-
-- 🔭 **I’m currently working on Computer Vision, Deep Learning, and Robotics.**
-- 👯 I’m looking to collaborate on any open research projects in my area of interest.
-
-- 📫 Contact me at **marjitshyam@gmail.com** or **shyam.marjit@iiitg.ac.in** or any of the social media links below.
-
+- 👨‍💻 I am interested in Computer Vision & Vision-Language Models (VLMs).
 - 🧘 I believe  **I am still a student and will remain that for the rest of my life.**
-- 🤝 🤝 🔭  Download CV - [here]().🔭 🤝 🤝 
+- 👯 I’m looking to collaborate on any open research projects in my area of interest.
+- 📫 Contact me at **marjit.shyam@gmail.com** or **shyammarjit@iisc.ac.in** or any of the social media links below.
+- 🎓 My prior research works can be found [here](https://scholar.google.com/citations?user=tg4LJ94AAAAJ&hl=en).
+
 <hr/>
 
 ## My Social Handles
