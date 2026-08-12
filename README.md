@@ -1,4 +1,4 @@
-<h2 align="center">Hare Krishna! 🙏 I'm Shyam Marjit</h2>
+<h2 align="center">COOL!! I'm Shyam Marjit</h2>
 
 - 👨‍💻 I am interested in Computer Vision & Vision-Language Models (VLMs).
 - 🧘 I believe  **I am still a student and will remain that for the rest of my life.**
